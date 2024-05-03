@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @itsbluejelly, but officially known as Ronnie Denzel
-- 👀 I’m interested in coding, philanthrophy and music in general
-- 🌱 I’m currently learning more about web development, especially ways to upgrade my MERN stack knowledge
-- 💞️ I’m looking to collaborate on full-stack web applications
-- 📫 How to reach me, via email ronniedenzel0@gmail.com
-- 📚 Currently undergoing training on typescript
-
-- I am a great fan of the tech space in general and as a plus, really like listening to hip-hop and trap music in my pass time. I am currently pursuing a bachelor's in Software Engineering
+# Ronnie Denzel - Software Engineer | Web developer
+## About me👋🏿
+Hi everyone, i'm @itsbluejelly but officially i'm known as Ronnie Denzel. I am a full stack web developer with various tricks up my sleeve.
+## Education📚
+- I am currently pursuing a degree in Software Engineering
+- Underwent a certified full stack web development course at [directed bootcamp](https://directed.dev).
+- Underwent a six month internship at [birbleAI](https://github.com/Birblewin)
+## Interests😁
+I have a high passion for the evolving world of *web development* including the new and upcoming frameworks and runtime environments. Nevertheless, I am getting my toes into *web3 development*.
+> I also have a keen interest in music😉
+## Contact me
+You can always reach out to me via:
+  - [Email](ronniedenzel0@gmail.com)
+  - Linkedin(
 
 <!---
 itsbluejelly/itsbluejelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
