@@ -10,7 +10,7 @@ Check out my [linkedin](https://www.linkedin.com/in/ronnie-denzel-0b802929a/) fo
 > I also have a keen interest in music and movies😉
 
 ## Skillset📜
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbluejelly&layout=compact&theme=dark)   
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=itsbluejelly&layout=compact&langs_count=6&hide_values=true&theme=catppuccin_mocha"/>
 
 I've dabbled with the following toolsets in their fields:
 - Languages
