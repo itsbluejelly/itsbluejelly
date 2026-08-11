@@ -53,7 +53,7 @@ You can always reach out to me via ronniedenzel0@gmail.com.
 ## Badges
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/itsbluejelly"><img src="https://github-readme-stats.vercel.app/api?username=itsbluejelly&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="itsbluejelly's GitHub stats" /></a>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=itsbluejelly&show_icons=true&include_all_commits=true&theme=material-palenight)](https://github-stats-extended.vercel.app/api?username=itsbluejelly&show_icons=true&include_all_commits=true&theme=material-palenight)
 
 ### credits
 - Thanks to [Daniel](https://github.com/danielcranney) and [Dave Gray](https://github.com/gitdagray) for the readme icon styling, visit [ProfileMe](https://www.profileme.dev/)
